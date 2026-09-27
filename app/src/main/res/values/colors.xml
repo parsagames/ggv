@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_background">#00142F</color>
+    <color name="navy_card">#0D2249</color>
+    <color name="accent_green">#22DD8A</color>
+    <color name="accent_green_dark">#149A5F</color>
+    <color name="accent_red">#FF6161</color>
+    <color name="accent_red_dark">#C23F3F</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9FB3D1</color>
+</resources>
