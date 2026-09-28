@@ -32,7 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="28dp"
-            android:cardBackgroundColor="@color/navy_card"
+            app:cardBackgroundColor="@color/navy_card"
             app:cardCornerRadius="20dp"
             app:cardElevation="0dp">
 
